@@ -1,6 +1,8 @@
-Silicon Apocalypse: IoT Smart Home Simulation
+##Silicon Apocalypse: IoT Smart Home Simulation##
 A Cisco Packet Tracer simulation of a self-sufficient, "zombie-proof" smart home designed for disaster scenarios. This project, completed as part of a Diploma in Computer Engineering, models an IoT-based system for survival, focusing on renewable energy, resource management, and automated defense.
+
 File Link 🔗:- https://drive.google.com/drive/folders/1-FlHpfeJzYEbvmu6vqP0lhD5DOZcVKwc
+
 Technical Overview
  * Simulation Tool: The entire system is designed and simulated using Cisco Packet Tracer.
  * Network Topology: IoT devices are connected in a star topology to a central home gateway.
